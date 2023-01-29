@@ -18,4 +18,4 @@ Didn't know what information should be in the footer, so I just added *back to t
 
 It looks like some of my browsers extentions affected my performance number and ni matter what I did, it didn't go higher. I opened my web page in incognito mode, and it gave me 100 right away. I'm curious why is it this way?
 
-Also there is no rating for PWA, is it correct?
+Also there is no rating for PWA, is it correct? 
