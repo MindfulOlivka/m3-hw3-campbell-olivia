@@ -4,9 +4,6 @@
 ![Accessibility Report](images/screenshot2.png)
 ![SEO Report](images/screenshot3.png)
 
-## Links
-* [Name of the link](web address)
-
 ## Stumbling Blocks
 I did't really understand if I can include *article* tag in a *section*, but I'd assume if info can excists on their own I should do it (all the time?).
 
